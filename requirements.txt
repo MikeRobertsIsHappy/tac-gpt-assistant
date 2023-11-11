@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+# time   needed but are part of python
+# os     needed but are part of python
+# json   needed but are part of python
